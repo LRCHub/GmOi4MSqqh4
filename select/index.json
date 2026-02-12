@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "むすんでひらいて",
+  "base_artist": "幸祜",
+  "createdAt": "2026-02-12T05:55:39.226285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "むすんでひらいて",
+      "artist": "KIRINJI",
+      "has_synced": false,
+      "path": "select/01_むすんでひらいて_KIRINJI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "むすんでひらいて",
+      "artist": "キンモクセイ",
+      "has_synced": false,
+      "path": "select/02_むすんでひらいて_キンモクセイ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "むすんでひらいて(おひさまキラキラ入り)",
+      "artist": "恒松 あゆみ",
+      "has_synced": true,
+      "path": "select/03_むすんでひらいて(おひさまキラキラ入り)_恒松_あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "むすんでひらいて",
+      "artist": "POLYSICS",
+      "has_synced": false,
+      "path": "select/04_むすんでひらいて_POLYSICS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "むすんでひらいて",
+      "artist": "Vanilla Beans",
+      "has_synced": false,
+      "path": "select/05_むすんでひらいて_Vanilla_Beans.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "むすんでひらいて",
+      "artist": "Kinmokusei",
+      "has_synced": false,
+      "path": "select/06_むすんでひらいて_Kinmokusei.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "むすんでひらいて",
+      "artist": "幸祜",
+      "has_synced": true,
+      "path": "select/07_むすんでひらいて_幸祜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "むすんでひらいて",
+      "artist": "幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_むすんでひらいて_幸祜.txt"
+    }
+  ]
+}
